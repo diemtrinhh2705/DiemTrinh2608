@@ -1,0 +1,2 @@
+C:\Users\trinhho\Desktop\Asp\Web\Web\obj\Release\Web.csproj.AssemblyReference.cache
+C:\Users\trinhho\Desktop\Asp\Web\Web\obj\Release\Web.csproj.CoreCompileInputs.cache
